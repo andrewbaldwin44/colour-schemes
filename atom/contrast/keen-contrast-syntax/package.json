@@ -1,0 +1,15 @@
+{
+  "name": "keen-contrast-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dayle Reese keen-contrast color theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/daylerees/colour-schemes",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
